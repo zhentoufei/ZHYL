@@ -1,0 +1,8 @@
+F:\MyWorkSpace\C#\ZHYL\MODEL\bin\Debug\MODEL.dll
+F:\MyWorkSpace\C#\ZHYL\MODEL\bin\Debug\MODEL.pdb
+F:\MyWorkSpace\C#\ZHYL\MODEL\obj\Debug\MODEL.dll
+F:\MyWorkSpace\C#\ZHYL\MODEL\obj\Debug\MODEL.pdb
+F:\workspace\ZHYL\MODEL\bin\Debug\MODEL.dll
+F:\workspace\ZHYL\MODEL\bin\Debug\MODEL.pdb
+F:\workspace\ZHYL\MODEL\obj\Debug\MODEL.dll
+F:\workspace\ZHYL\MODEL\obj\Debug\MODEL.pdb

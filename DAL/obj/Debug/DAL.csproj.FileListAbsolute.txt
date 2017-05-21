@@ -1,0 +1,14 @@
+F:\MyWorkSpace\C#\ZHYL\DAL\bin\Debug\DAL.dll
+F:\MyWorkSpace\C#\ZHYL\DAL\bin\Debug\DAL.pdb
+F:\MyWorkSpace\C#\ZHYL\DAL\obj\Debug\DAL.dll
+F:\MyWorkSpace\C#\ZHYL\DAL\obj\Debug\DAL.pdb
+F:\MyWorkSpace\C#\ZHYL\DAL\bin\Debug\MODEL.dll
+F:\MyWorkSpace\C#\ZHYL\DAL\bin\Debug\MODEL.pdb
+F:\MyWorkSpace\C#\ZHYL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\workspace\ZHYL\DAL\bin\Debug\DAL.dll
+F:\workspace\ZHYL\DAL\bin\Debug\DAL.pdb
+F:\workspace\ZHYL\DAL\bin\Debug\MODEL.dll
+F:\workspace\ZHYL\DAL\bin\Debug\MODEL.pdb
+F:\workspace\ZHYL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\workspace\ZHYL\DAL\obj\Debug\DAL.dll
+F:\workspace\ZHYL\DAL\obj\Debug\DAL.pdb
